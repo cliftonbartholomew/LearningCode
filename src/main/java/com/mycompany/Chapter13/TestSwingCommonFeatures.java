@@ -36,6 +36,7 @@ public class TestSwingCommonFeatures extends JFrame{
         top.add(butRight);
         top.setBorder(new TitledBorder("Three buttons"));
         
+        //test comment
         Font largeFont = new Font("TimesRoman", Font.BOLD, 20);
         Border lineBorder = new LineBorder(Color.BLACK, 2);
         
