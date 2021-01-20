@@ -17,6 +17,12 @@ public class MathCalc2 {
     private int num1;
     private int num2;
     
+    public MathCalc2(){
+        this.num1 = 0;
+        this.num2 = 0;
+    }    
+    
+    //Constructor - instantiate/declare the field variables
     public MathCalc2(int num1, int num2){
         this.num1 = num1;
         this.num2 = num2;
